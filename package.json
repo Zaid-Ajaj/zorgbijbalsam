@@ -26,6 +26,7 @@
         "url": "https://github.com/BlackrockDigital/startbootstrap-agency.git"
     },
     "scripts": {
+        "compile": "gulp default",
         "start": "gulp dev"
     },
     "dependencies": {
